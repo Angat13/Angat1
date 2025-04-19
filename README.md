@@ -1,4 +1,4 @@
-
+\
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/angat-singh-wasan-327bb5263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angatw123@gmail.com) 
 
